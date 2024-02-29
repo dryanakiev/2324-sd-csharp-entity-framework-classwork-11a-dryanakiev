@@ -1,0 +1,14 @@
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\bin\Debug\net7.0\GrocerySystem.DAL.deps.json
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\bin\Debug\net7.0\GrocerySystem.DAL.runtimeconfig.json
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\bin\Debug\net7.0\GrocerySystem.DAL.dll
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\bin\Debug\net7.0\GrocerySystem.DAL.pdb
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\GrocerySystem.DAL.csproj.AssemblyReference.cache
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\GrocerySystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\GrocerySystem.DAL.AssemblyInfoInputs.cache
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\GrocerySystem.DAL.AssemblyInfo.cs
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\GrocerySystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\GrocerySystem.DAL.dll
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\refint\GrocerySystem.DAL.dll
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\GrocerySystem.DAL.pdb
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\GrocerySystem.DAL.genruntimeconfig.cache
+C:\Users\dyanakiev\RiderProjects\2324-sd-csharp-entity-framework-classwork-11a-dryanakiev\GrocerySystemUsingEFCore\GrocerySystem.DAL\obj\Debug\net7.0\ref\GrocerySystem.DAL.dll
