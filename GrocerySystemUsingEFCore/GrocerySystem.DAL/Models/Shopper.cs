@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GrocerySystem.DAL.Models;
 
-public partial class Goods
+public partial class Shopper
 {
     [Key]
     public int Id { get; set; }
@@ -14,9 +14,9 @@ public partial class Goods
     [StringLength(50)]
     public string Name { get; set; } = null!;
 
-    [Column(TypeName = "decimal(5, 2)")]
-    public decimal Weight { get; set; }
+    [StringLength(50)]
+    public string Phone { get; set; } = null!;
 
-    [InverseProperty("Goods")]
-    public virtual ICollection<Groceries> Groceries { get; set; } = new List<Groceries>();
+    [InverseProperty("Shoppers")]
+    public virtual ICollection<Grocery> Groceries { get; set; } = new List<Grocery>();
 }

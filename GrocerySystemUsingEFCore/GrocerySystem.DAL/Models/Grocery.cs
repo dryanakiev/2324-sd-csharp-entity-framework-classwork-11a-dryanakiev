@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GrocerySystem.DAL.Models;
 
-public partial class Groceries
+public partial class Grocery
 {
     [Key]
     public int Id { get; set; }
@@ -19,9 +19,9 @@ public partial class Groceries
 
     [ForeignKey("GoodsId")]
     [InverseProperty("Groceries")]
-    public virtual Goods Goods { get; set; } = null!;
+    public virtual Good Goods { get; set; } = null!;
 
     [ForeignKey("ShoppersId")]
     [InverseProperty("Groceries")]
-    public virtual Shoppers Shoppers { get; set; } = null!;
+    public virtual Shopper Shoppers { get; set; } = null!;
 }
