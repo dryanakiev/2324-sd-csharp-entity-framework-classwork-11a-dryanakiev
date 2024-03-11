@@ -7,7 +7,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        LibraryContext context = new LibraryContext();
+        GroceryContext context = new GroceryContext();
 
         Console.WriteLine("----------------------GOODS----------------------");
         foreach (Good good in context.Goods)

@@ -16,6 +16,9 @@ public partial class Good
 
     [Column(TypeName = "decimal(5, 2)")]
     public decimal Weight { get; set; }
+    
+    [Column(TypeName = "decimal(5, 2)")] 
+    public decimal Price { get; set; }
 
     [InverseProperty("Goods")]
     public virtual ICollection<Grocery> Groceries { get; set; } = new List<Grocery>();
